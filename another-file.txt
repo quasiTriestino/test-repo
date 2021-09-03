@@ -1,1 +1,3 @@
-This is yet another change to see if Magit will work with my remote repository on GitHub!
+This is yet another DELTA to see if Magit will work with my remote repository on GitHub!
+
+This is going to be great!
